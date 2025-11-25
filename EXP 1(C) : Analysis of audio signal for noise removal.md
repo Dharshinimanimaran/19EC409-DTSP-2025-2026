@@ -1,5 +1,5 @@
 # EXP 1(C) : Analysis of audio signal for noise removal
-## Oviya K P(212223060191)
+## Dharshini M(212222060025)
 
 # AIM: 
 
