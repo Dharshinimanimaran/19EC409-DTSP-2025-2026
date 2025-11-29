@@ -1,5 +1,5 @@
 # EXP 1(B) :  ANALYSIS OF DFT WITH AUDIO SIGNAL
-## Dharshini M(212222060025)
+## Dharshini M(212222060044)
 
 # AIM: 
 
